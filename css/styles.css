@@ -225,13 +225,14 @@ width: calc((100% - 72px) / 4);
   display: flex;
   gap: 24px;
 }
-.team-section-item{
-width:calc((100% - 72px) / 4)
+.team-section-item {
+width:calc((100% - 72px) / 4);
 padding: 0px 0px 32px 0px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-background: #fffff;
+background: #ffffff;
 border-radius: 0px 0px 4px 4px;
 }
+
 .team-item-title{
 font-weight: 500;
 font-size: 20px;
